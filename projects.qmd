@@ -1,0 +1,9 @@
+---
+title: "projects.qmd"
+author: "Lea Lambdin"
+format: pdf
+---
+
+# Projects
+
+Coming soon.

@@ -1,0 +1,9 @@
+---
+title: "fun.qmd"
+author: "Lea Lambdin"
+format: pdf
+---
+
+# Fun 
+
+Coming soon.
