@@ -2,6 +2,13 @@
 title: "LeaLambdin.github.io"
 ---
 
-This is a Quarto website.
+# Welcome
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi! My name is Lea Lambdin and I am a Geography major at UCSB interested in urban geography, GIS, climate science, and environmental data visualization.
+
+This website will contain:
+- projects
+- maps and visualizations
+- coursework
+- personal interests
+- creative geography-related content

@@ -2,4 +2,15 @@
 title: "About"
 ---
 
-About this site
+# About Me
+
+I am a Geography major at the University of California, Santa Barbara.
+
+My interests include:
+- urban geography
+- GIS and spatial analysis
+- climate and environmental systems
+- transportation and cities
+- environmental visualization
+
+Outside of school I enjoy hiking, food, travel, music festivals, creative projects, and working with maps and data.
